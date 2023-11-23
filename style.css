@@ -21,7 +21,9 @@
   /* Handle */
   ::-webkit-scrollbar-thumb {
     background: #888;
-    height: 50px; /* ارتفاع المقبض */
+    height: 50px; 
+    border-radius: 20px;
+
 
   }
   
